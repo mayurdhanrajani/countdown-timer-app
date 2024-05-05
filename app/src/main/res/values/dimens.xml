@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- DP Size -->
+    <dimen name="SIZE_12DP">12dp</dimen>
+    <dimen name="SIZE_24DP">24dp</dimen>
+    <dimen name="SIZE_50DP">50dp</dimen>
+    <dimen name="SIZE_60DP">60dp</dimen>
+    <dimen name="SIZE_100DP">100dp</dimen>
+    <dimen name="SIZE_108DP">108dp</dimen>
+    <dimen name="SIZE_140DP">140dp</dimen>
+    <dimen name="SIZE_250DP">250dp</dimen>
+
+</resources>

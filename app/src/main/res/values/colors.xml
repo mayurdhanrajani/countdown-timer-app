@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#FFFFFF</color>
+    <color name="navigation_bar_color">#FFFFFF</color>
+    <color name="screen_background_color">#FFFFFF</color>
+    <color name="button_color">#1C85E8</color>
+    <color name="text_color_one">#FFFFFF</color>
+    <color name="text_color_two">#1A1A1A</color>
+    <color name="progress_foreground_color">#78BE23</color>
+    <color name="progress_background_color">#F2F2F2</color>
+</resources>
